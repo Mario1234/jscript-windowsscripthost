@@ -1,0 +1,9 @@
+
+Para depurar por ejemplo el Jscript alert1.js lo primero es descargar e instalar el visual studio 2019 community:
+en este caso me descargo el vs_community__1240685858.1569916791.exe (con diferentes numeros segun fecha-version, bajar el ultimo)
+dobleclick instalar e visual studio 2019 community
+
+Despues de instalarlo intentar importar la configuracion del .vsconfig
+sino dobleclick en vs_community__1240685858.1569916791.exe y seguir los pasos del 1 al 15
+despues abrir consola del sistema y ejecutar pasos del 16 al 18
+

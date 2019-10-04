@@ -1,0 +1,6 @@
+<job id="ejemploIncludes">
+   <script language="JavaScript" src="canvasIE.js"/>
+   <script language="JavaScript" src="base64.js"/>
+   <script language="JavaScript" src="archivosBinarios.js"/>
+   <script language="JavaScript" src="modificaImagenes.js"/>
+</job>
